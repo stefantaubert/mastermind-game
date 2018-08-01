@@ -14,6 +14,6 @@ At the end the right solution shows up:
   <img src="/screenshots/solution.png">
 </p>
 
-# Acknoledgements
+# Acknowledgements
 Images Source:
 https://www.iconfinder.com/icons/897242/brain_improve_mind_resolutions_think_thinking_train_icon
